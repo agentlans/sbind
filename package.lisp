@@ -1,5 +1,7 @@
 (defpackage :sbind
   (:use :cl)
   (:export
-   :sbind))
+   :sbind
+   :slet
+   :slet*))
 (in-package :sbind)
