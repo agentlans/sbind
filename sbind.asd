@@ -5,4 +5,5 @@
     :licence "Apache 2.0"
     :serial t
     :components ((:file "package")
-                 (:file "sbind")))
+                 (:file "sbind")
+                 (:file "slet")))
