@@ -6,4 +6,5 @@
     :serial t
     :components ((:file "package")
                  (:file "sbind")
-                 (:file "slet")))
+                 (:file "slet")
+                 (:file "scase")))

@@ -3,5 +3,9 @@
   (:export
    :sbind
    :slet
-   :slet*))
+   :slet*
+   :if-sbind
+   :when-sbind
+   :unless-sbind
+   :scase))
 (in-package :sbind)
